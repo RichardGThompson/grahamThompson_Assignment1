@@ -1,0 +1,22 @@
+{
+  "name": "grahamthompson_assignment1",
+  "version": "1.0.0",
+  "description": "Assignment 1: Node for ITEC4012 at Carleton University",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardGThompson/grahamThompson_Assignment1.git"
+  },
+  "author": "Richard Graham Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardGThompson/grahamThompson_Assignment1/issues"
+  },
+  "homepage": "https://github.com/RichardGThompson/grahamThompson_Assignment1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
