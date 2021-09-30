@@ -4,7 +4,8 @@
   "description": "Assignment 1: Node for ITEC4012 at Carleton University",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Starting application...\" && node index.js"
   },
   "repository": {
     "type": "git",
