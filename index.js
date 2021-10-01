@@ -39,14 +39,14 @@ function hondaAPIHandler(){
         {
             "Model Name": "Prelude",
             "Model Generation": "5th Generation",
-            "Engine Size": "2.2L N/A",
+            "Engine Size": "2.2L NA",
             "Horsepower": "200",
             "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2001_Prelude_SE_%28cropped%29.jpg/280px-2001_Prelude_SE_%28cropped%29.jpg"
         },
         {
             "Model Name": "Pilot",
             "Model Generation": "3rd Generation",
-            "Engine Size": "3.5L N/A",
+            "Engine Size": "3.5L NA",
             "Horsepower": "280",
             "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2017_Honda_Pilot_AWD_front_6.15.18.jpg/280px-2017_Honda_Pilot_AWD_front_6.15.18.jpg"
         },
@@ -60,14 +60,14 @@ function hondaAPIHandler(){
         {
             "Model Name": "Accord",
             "Model Generation": "7th Generation",
-            "Engine Size": "2.4L N/A",
+            "Engine Size": "2.4L NA",
             "Horsepower": "166",
             "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2006_Honda_Accord_V6L_sedan_%282018-11-02%29.jpg/220px-2006_Honda_Accord_V6L_sedan_%282018-11-02%29.jpg"
         },
         {
             "Model Name": "CRX",
             "Model Generation": "2nd Generation",
-            "Engine Size": "1.6L N/A",
+            "Engine Size": "1.6L NA",
             "Horsepower": "158",
             "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/1991CRXSi.jpg/280px-1991CRXSi.jpg"
         },
@@ -81,14 +81,14 @@ function hondaAPIHandler(){
         {
             "Model Name": "Passport",
             "Model Generation": "3rd Generation",
-            "Engine Size": "3.5L N/A",
+            "Engine Size": "3.5L NA",
             "Horsepower": "280",
             "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2019_Honda_Passport_EX-L_3.5L%2C_front_8.27.19.jpg/280px-2019_Honda_Passport_EX-L_3.5L%2C_front_8.27.19.jpg"
         },
         {
             "Model Name": "CR-V",
             "Model Generation": "5th Generation",
-            "Engine Size": "2.4L N/A",
+            "Engine Size": "2.4L NA",
             "Horsepower": "184",
             "Image URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/280px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg"
         },
